@@ -173,16 +173,6 @@ Table: vehicles
 
 ---
 
-## 📘 Swagger API Docs
-
-* Available at:
-
-  ```
-  http://localhost:8080/swagger-ui/index.html
-  ```
-
----
-
 ## 🧪 Testing
 
 Run JUnit tests:
