@@ -22,4 +22,8 @@ public class VehicleRequestMapper {
     public List<VehicleDto> getVehicles() {
         return vehicles;
     }
+
+    public void setVehicles(List<VehicleDto> vehicles) {
+        this.vehicles = vehicles;
+    }
 }

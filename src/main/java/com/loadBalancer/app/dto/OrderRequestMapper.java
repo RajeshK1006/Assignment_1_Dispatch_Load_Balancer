@@ -22,5 +22,9 @@ public class OrderRequestMapper {
         return orders;
     }
 
+    public void setOrders(List<OrderDto> orders) {
+        this.orders = orders;
+    }
+
 
 }

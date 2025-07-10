@@ -1,4 +1,4 @@
-package com.loadBalancer.app;
+package com.loadBalancer.app.service;
 
 
 import com.loadBalancer.app.dto.DispatchResponseDto;
